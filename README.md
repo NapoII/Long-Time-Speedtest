@@ -11,3 +11,5 @@
 ![What_is_inside](https://raw.githubusercontent.com/NapoII/Long-Time-Speedtest/main/README/What_is_inside.png)
 
 
+![How to profe](https://i.imgur.com/64qbCrm.gif)
+
