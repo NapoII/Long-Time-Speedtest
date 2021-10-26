@@ -11,3 +11,5 @@
 
 ![How to profe](https://i.imgur.com/64qbCrm.gif)
 
+
+[<img src="https://i.imgur.com/dJr1QlX.png" height="500px" />](https://github.com/NapoII/Long-Time-Speedtest/raw/main/OneFile/latest/Long-Time-Speed-Test.v0.9.0.exe)
